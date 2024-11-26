@@ -28,7 +28,7 @@ const greeting = {
     "https://drive.google.com/file/d/1kl7hUlYlaURmdzUP8NtrbycQOTs_48Xq/view?usp=drive_link",
   portfolio_repository: "https://github.com/moeezally/moeezPortfolio",
   githubProfile: "https://github.com/moeezally",
-  projectPortfolioDocument: "https://docs.google.com/document/d/122otrjqENy001SN6Ujn_MVQlSjBwMNPW8_D0FNyot5o/edit?tab=t.0"
+  projectPortfolioDocument: "https://docs.google.com/document/d/1UCx_PQZw0v8_fdFw7QsZE2hllFmtPGIG-11cspPvenU/edit?tab=t.0"
 };
 
 const socialMediaLinks = [
