@@ -353,7 +353,7 @@ const certifications = {
       subtitle: "- Cory McAboy",
       logo_path: "Udemy.png",
       certificate_link:
-        "",
+        "https://drive.google.com/file/d/1QZWBBAW1cbM7Sc0A8kLNTf-VUXxf3l7Q/view?usp=drive_link",
       alt_name: "Udemy",
       color_code: "#ffffff",
     },
@@ -362,7 +362,7 @@ const certifications = {
       subtitle: "- Jason Brown",
       logo_path: "Udemy.png",
       certificate_link:
-        "",
+        "https://drive.google.com/file/d/1dF-LD-5uPX7gDNvNFJfTtDULRcd2c6bd/view?usp=drive_link",
       alt_name: "Udemy",
       color_code: "#ffffff",
     },
